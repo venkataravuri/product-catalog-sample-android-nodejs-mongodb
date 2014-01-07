@@ -1,4 +1,0 @@
-{ "sku":"00e8da9d", "type":"Film", "title":"The Matrix", "description":"Matrix Reloaded", "asin":"B000P0J0AQ", "pricing":{ "list":500, "retail":400, "savings":50, "pct_savings":8 } }
-{ "sku":"uri28942kiw", "type":"Gorcery", "title":"Lemon", "description":"Royal Lemon", "pricing":{ "list":1, "retail":0.95 } }
-{ "sku":"uri28942244", "type":"Book", "title":"MongoDB for Dummies", "description":"MongoDB for Dummies", "pricing":{ "list":200, "retail":185 } }
-{ "sku":"12428942kiw", "type":"Toys", "title":"Zippy zap!", "description":"Helicopter", "pricing":{ "list":99, "retail":75 } }
