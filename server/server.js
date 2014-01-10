@@ -1,5 +1,5 @@
 /**
- * New node file
+ * Server file
  */
 var express = require('express');
 var catalog = require('./routes/catalog');
