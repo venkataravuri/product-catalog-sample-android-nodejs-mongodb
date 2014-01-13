@@ -1,0 +1,17 @@
+[
+	{
+		"sku":"00e8da9d",
+		"type":"Film",
+		"category":"Movies, Music & Games",
+		"title":"TheMatrix",
+		"description":"MatrixReloaded",
+		"asin":"B000P0J0AQ",
+		"pricing":{
+			"list":500,
+			"retail":400,
+			"savings":50,
+			"pct_savings":8
+		}
+		
+	}
+]

@@ -11,8 +11,9 @@ app.configure(function() {
 	app.use(express.bodyParser());
 });
 
-app.get('/catalog', catalog.findAll);
-app.get('/catalog/:id', catalog.findById);
+app.get('/api/catalog', catalog.findAll);
+app.get('/api/catalog/:id', catalog.findById);
+app.get('/api/catalog/category/:category', catalog.findByCategory);
 
 app.listen(3000);
 console.log('Listening on port 3000...');

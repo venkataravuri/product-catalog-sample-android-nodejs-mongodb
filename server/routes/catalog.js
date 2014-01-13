@@ -43,3 +43,13 @@ exports.findAll = function(req, res) {
 		});
 	});
 };
+
+exports.findByCategory = function(req, res) {
+	var category = req.params.category;
+	console.log("Search for products of category:" + category);
+	db.collection('products', function(err, collection) {
+		collection.find({ 'category': category }).toArray(function(err, items) {
+			res.send(items);
+		});
+	});
+};
