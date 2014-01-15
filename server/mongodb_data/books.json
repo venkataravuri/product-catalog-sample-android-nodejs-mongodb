@@ -1,0 +1,104 @@
+[
+	{
+		"sku":"zft2rez419",
+		"type":"books",
+		"category":"books",
+		"language":"English",
+		"title":"Before I Burn: A Novel",
+		"description":"An international literary sensation about an arsonist on the loose in rural Norway and the young man haunted by the story",
+		"authors":[
+			{
+				"firstName":"Gaute",
+				"lastName":"Heivoll"
+			}
+			
+		],
+		"isbn-13":"978-1555976613",
+		"publisher":"Graywolf Press",
+		"publishedDate":"January 7, 2014",
+		"details":{
+			"pages":"336"
+		},
+		"shipping":{
+			"dimensions":"8.3x5.9x1",
+			"weight":"11.2"
+		},
+		"pricing":{
+			"currency":"USD",
+			"cost":"95",
+			"dicount":"20%"
+		},
+		"reviews":"5.0"
+	},
+	,
+	{
+		"sku":"v17927lnmj",
+		"type":"books",
+		"category":"books",
+		"language":"English",
+		"title":"Windfall: The Booming Business of Global Warming",
+		"description":"There's a wildly speculative and entrepreneurial game being played out there by some forward-thinking risk takers.",
+		"authors":[
+			{
+				"firstName":"McKenzie",
+				"lastName":"Funk"
+			}
+			
+		],
+		"isbn-13":"978-1594204012",
+		"publisher":"Penguin Press HC",
+		"publishedDate":"January 23, 2014",
+		"details":{
+			"pages":"320"
+		},
+		"shipping":{
+			"dimensions":"9.3 x 6.3 x 1.1",
+			"weight":"1.2"
+		},
+		"pricing":{
+			"currency":"USD",
+			"cost":"21.94",
+			"dicount":"22%"
+		},
+		"reviews":"4.2"
+	},
+	{
+		"sku":"g1v6xh2i5g",
+		"type":"books",
+		"category":"books",
+		"language":"English",
+		"title":"Compilers : Principles, Techniques, & Tools 2 Edition",
+		"description":"",
+		"authors":[
+			{
+				"firstName":"Alfred V.",
+				"lastName":"Aho"
+			},
+			{
+				"firstName":"D. Jeffrey",
+				"lastName":"Ulman"
+			},
+			{
+				"firstName":"Ravi",
+				"lastName":"Sethi"
+			}
+			
+		],
+		"isbn-13":"9788131721018",
+		"publisher":"Dorling Kindersley (India) Pvt Ltd",
+		"publishedDate":"2008",
+		"details":{
+			"pages":"1009"
+		},
+		"shipping":{
+			"dimensions":"9.3 x 6.3 x 1.1",
+			"weight":"2.5"
+		},
+		"pricing":{
+			"currency":"INR",
+			"cost":"799",
+			"dicount":"22%"
+		},
+		"reviews":"4.5"
+	}
+]

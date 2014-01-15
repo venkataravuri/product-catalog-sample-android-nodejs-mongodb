@@ -1,0 +1,53 @@
+[
+	{
+		"sku":"hdl261garv",
+		"category":"Gorcery",
+		"type":"Bread & Bakery",
+		"title":"Bagels Plain -   4 pack",
+		"description":"Plain Presliced Bagels.",
+		"ingredients":[
+			{
+				"ingredient":"Wheat Flour"
+			},
+			{
+				"ingredient":"Maize Starch"
+			},
+			{
+				"ingredient":"Sugar"
+			}
+			
+		],
+		"servingsPerPack":"4.0",
+		"weight":{
+			"weigth":"120",
+			"measure":"gram"
+		},
+		"pricing":{
+			"price":"20.99",
+			"discount":"25%"
+		},
+		"nutritionalInfo":{
+			"Energy":"1320kJ",
+			"Protein":"11.8g",
+			"Total Fat":"2.0g"
+		},
+		"origin":"Australian Made"
+	},
+	{
+		"sku":"uvfekyux4w",
+		"category":"Gorcery",
+		"type":"Paper & Plastic",
+		"title":"Bounty Select-A-Size Big Rolls Paper Towels, 12ct",
+		"description":"The average household goes through about 12 big rolls of paper towels in less than six months, so it makes sense to stock up on Bounty Select-A-Size Big Rolls Paper Towels.",
+		"details":{
+			"weight":"6.15",
+			"size":"20.71 x 15.53 x 11.0",
+			"quantity":"12"
+		},
+		"pricing":{
+			"price":"16.57",
+			"discount":"30%"
+		},
+		"customerRating":"4.8"
+	}
+]

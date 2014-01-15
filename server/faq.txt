@@ -1,0 +1,18 @@
+#
+# In case you wish to contribute this project, you can use below git instructions
+# to checkout source and commit the changes.
+# 
+# Clone the project
+git clone https://github.com/venkataravuri/icatalog.git
+#
+# Add files.
+git add . -v
+#
+# Commit the code - ? replac with comment.
+git commit -am "?"
+#
+# Push the committed changes
+git push origin master
+#
+# Pull the latest code
+git pull origin master

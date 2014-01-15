@@ -1,0 +1,14 @@
+[
+	{
+		"sku":"12428942kiw",
+		"type":"Toys",
+		"category":"Toys, Kids & Baby",
+		"title":"Zippyzap!",
+		"description":"Helicopter",
+		"pricing":{
+			"list":99,
+			"retail":75
+		}
+		
+	}
+]
