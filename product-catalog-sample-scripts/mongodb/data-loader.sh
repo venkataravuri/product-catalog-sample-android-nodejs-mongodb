@@ -1,0 +1,1 @@
+mongoimport --host localhost --port 27017 --db catalog --collection definition --drop --file catalog-definition-data.json

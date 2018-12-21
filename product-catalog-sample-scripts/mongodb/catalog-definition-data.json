@@ -1,0 +1,28 @@
+{
+   "_id":"30671",
+   "title":"Butterflies Women's Handbag",
+   "description":"The design of the bag is trendy yet simple. The Red color bag with a cute Butterflies logo dangling on it makes it look elegant. The bag has lots of space to accommodate most of the things.",
+   "department":"Handbags",
+   "Category":"Women/Handbags",
+   "thumbnail":"http://cdn.../pump.jpg",
+   "price":149.95,
+   "attrs":[
+      {
+         "brand":"Calvin Klein"
+      }
+   ],
+   "sattrs":[
+      {
+         "style":"Designer"
+      },
+      {
+         "productDimensions":"33 x 8.9 x 25.4 cm ; 699 g"
+      },
+      {
+         "outerMaterial":"PU"
+      },
+      {
+         "innerMaterial":"Nylon"
+      }
+   ]
+}

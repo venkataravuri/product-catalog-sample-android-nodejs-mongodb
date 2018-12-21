@@ -1,0 +1,27 @@
+{
+   "_id":"93284847362823",
+   "itemId":"30671",
+   "department":"Handbags",
+   "Category":"Women/Handbags",
+   "vars":[
+      {
+         "sku":"93284847362823",
+         "attrs":[
+            {
+               "color":"red"
+            }
+         ],
+         "sattrs":[
+            {
+               "numberOfPockets":"3"
+            },
+            {
+               "strapType":"Double strap"
+            },
+            {
+               "closureType":"zip"
+            }
+         ]
+      }
+   ]
+}
